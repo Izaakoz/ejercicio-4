@@ -1,0 +1,199 @@
+  body{
+background-color: hsl(0, 0%, 100%);
+  }
+  
+  .contenedor{
+  width: 1440px;
+  height: 800px;
+  border-color: hsl(0, 0%, 100%);
+  border-style: solid;
+  border-width: 3px;
+}
+
+.caja1{
+  width: 300px;
+  height: 150px;
+  border-color: hsl(0, 0%, 100%);
+  border-style: solid;
+  border-width: 3px;
+  position: absolute;
+  top:150px;
+  left:150px;
+} 
+
+.rectangulo1{
+    width: 400px;
+    height: 40px;
+    border-color: hsl(0, 0%, 100%);
+    border-style: solid;
+    border-width: 3px;
+    position: absolute;
+    top: 180px;
+    left: 750px;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 8%;
+}
+
+.rectangulo2{
+    width: 400px;
+    height: 40px;
+    border-color: hsl(0, 0%, 100%);
+    border-style: solid;
+    border-width: 3px;
+    position: absolute;
+    top:230px;
+    left:800px;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 8%;
+}
+
+.rectangulo3{
+    width: 400px;
+    height: 40px;
+    border-color: hsl(0, 0%, 100%);
+    border-style: solid;
+    border-width: 3px;
+    position: absolute;
+    top:280px;
+    left:850px;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 8%;
+}
+
+.cuadro1{
+    background-color: hsl(300, 43%, 22%);
+    width: 300px;
+    height: 200px;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    position: absolute;
+    top:500px;
+    left:150px;  
+  
+}
+
+.cuadro2{
+    background-color: hsl(300, 43%, 22%);
+    width: 300px;
+    height: 200px;
+    border-color: hsl(0, 0%, 100%);
+    border-style: solid;
+    border-width: 3px;
+    position: absolute;
+    top:520px;
+    left:490px;  
+  
+}
+
+.cuadro3{
+    background-color: hsl(300, 43%, 22%);
+    width: 300px;
+    height: 200px;
+    border-color: hsl(0, 0%, 100%);
+    border-style: solid;
+    border-width: 3px;
+    position: absolute;
+    top:540px;
+    left:830px;  
+  
+}
+
+p{
+    color: hsl(300, 43%, 22%);
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+    font-size:xx-large;
+  }
+  span{
+      color: hsl(333, 80%, 67%);
+      font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+    font-size:small;
+} 
+
+.texto{
+    width: 400px;
+    height: 50px;
+    border-color: hsl(0, 0%, 100%);
+    border-style: solid;
+    border-width: 3px;
+    position: absolute;
+    top:310px;
+    left:150px;   
+} 
+
+.text1{
+    color: hsl(300, 43%, 22%);
+    font-family: 'Spartan', sans-serif;
+    font-weight: 400;
+    font-size: small;
+    position: absolute;
+    left: 35px;
+
+} 
+
+.text2{
+    color: hsl(300, 43%, 22%);
+    font-family: 'Spartan', sans-serif;
+    font-weight: 400;
+    font-size: small;
+    position: absolute;
+    left: 35px;
+
+} 
+
+.text3{
+    color: hsl(300, 43%, 22%);
+    font-family: 'Spartan', sans-serif;
+    font-weight: 400;
+    font-size: small;
+    position: absolute;
+    left: 35px;
+
+} 
+
+.nombres{
+color: hsl(0, 0%, 100%);
+font-family: 'Spartan', sans-serif;
+    font-weight: 400;
+    font-size: small;
+
+} 
+
+.subt{
+    color: hsl(333, 80%, 67%);
+    font-family: 'Spartan', sans-serif;
+        font-weight: 400;
+        font-size: small;
+    
+    } 
+
+ .foto{
+    border-radius: 100%;
+        margin-right: 20px;
+        
+        } 
+
+table{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+            
+            
+            } 
+
+ .bajo{
+    color: hsl(0, 0%, 100%);
+    font-family: 'Spartan', sans-serif;
+        font-weight: 400;
+        font-size: 10px;
+        position: absolute;
+        left: auto;
+        right: auto;
+        bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        line height: 1.5;
+                
+                } 
